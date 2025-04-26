@@ -1,0 +1,7 @@
+Practicing hello world
+reading lines 2
+reading lines 3
+reading lines 4
+reading lines 5
+new line added
+greatest word is notpracticicng
